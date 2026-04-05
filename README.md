@@ -12,7 +12,7 @@ This is where I'm learning how to use GitHub. I'll be adding more things as I le
 
 ## My Files
 - `hello.txt` - My first text file
-- `alpacajpg` - An image I uploaded
+- `alpaca.jpg` - An image I uploaded
 - `README.md` - This file you're reading!
 
 ## My Goals
